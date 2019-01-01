@@ -6,5 +6,6 @@ public class Main {
         System.out.println("3333");
         System.out.println("test");
         System.out.println("zmiany po pushu master");
+        System.out.println("zmiany po pushu master");
     }
 }
